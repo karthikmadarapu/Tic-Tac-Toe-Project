@@ -18,6 +18,8 @@ public class Main
         // Name of members and ids:
         // Ricardo Alvear | 101536306
         // Sayuni Wimaladharma | 101563313
+        // Kartik Madarapu | 101564894
+        // Noela Bilonda Kabundi |
 
         System.out.println(BLUE + "Hello! Welcome To The TicTacToe Game" + RESET);
         System.out.print(GREEN + "Enter 1 for single player or 2 for two players: " + RESET);
