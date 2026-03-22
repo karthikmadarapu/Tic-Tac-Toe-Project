@@ -54,8 +54,11 @@ The non-AI part (2 human players) is worth 10 of the marks
 The recursive minimax version (1 human vs AI) is worth 5 of the marks
 
 ❗️ - This assignment loses 30% each day (based on the date) after the 3rd April.
+
 ❗️ - This means if it is submitted 12:01 AM (1 minute late) on the 4th, the maximum mark that can be got is 10.5/15.
+
 ❗️ - This means if it is submitted 12:01 AM on the 5th, the maximum mark that can be got is 6/15.
+
 It is therefore better to submit a non-working AI version on time than an AI version late.
 
 This is a group assignment, and one report and code will be submitted per group.
